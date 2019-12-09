@@ -11,7 +11,7 @@ public class BannerReklam : MonoBehaviour
     public void Start()
     {
         
-            string appId = "ca-app-pub-9132047025891240~7393931171";
+            string appId = "";
         
         
      
@@ -25,7 +25,7 @@ public class BannerReklam : MonoBehaviour
     private void RequestBanner()
     {
         
-        string adUnitId = "ca-app-pub-9132047025891240/9418648656";
+        string adUnitId = "";
         
 
         // Create a 320x50 banner at the top of the screen.
